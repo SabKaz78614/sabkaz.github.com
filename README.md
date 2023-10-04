@@ -1,4 +1,3 @@
-[# sabkaz.github.com](https://sabkaz78614.github.io/sabkaz.github.com/)
 
 Cheat Sheet project:
 https://sabkaz78614.github.io/sabkaz.github.com/Challenge%20Project%20Build%20Your%20Own%20Cheat%20Sheet
