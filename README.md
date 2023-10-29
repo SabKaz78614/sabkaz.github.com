@@ -5,3 +5,5 @@ https://sabkaz78614.github.io/sabkaz.github.com/Challenge%20Project%20Build%20Yo
 Web Style Guide Project:
 https://sabkaz78614.github.io/sabkaz.github.com/Website%20Style%20Guide
 
+Flex-Box Project:
+https://sabkaz78614.github.io/sabkaz.github.com/Flex-Box%20homepage
