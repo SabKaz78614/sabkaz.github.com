@@ -1,0 +1,236 @@
+*{
+
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    color: silver;
+}
+
+header{
+    position: fixed;
+    padding: 0px;
+    color: silver;
+    width: 100%;
+    align-items: center;
+    background-color: black;
+    border-bottom: 5px silver solid;
+
+}
+
+.logo {
+    float: left;
+}
+
+.logo img{
+    height: 60px;
+    width: 80px;
+    padding: 10px;
+    position: relative;
+    
+    
+}
+
+nav ul li{
+    display: inline-block;
+    
+}
+
+nav li{
+    
+    padding: 15px 15px;
+   
+}
+
+li a {
+    text-decoration: none;
+    float: right;
+    padding-left: 50px;
+    transition: transform .2s;
+    
+}
+
+a:hover{
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    color: goldenrod;
+    transition: all .2s ease-in-out;
+    transform: scale(1.2);
+    
+}
+
+
+ul {
+    padding: 20px 50px 20px 20px;
+    float: right;
+
+}
+
+
+.characters img{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+    background-size: contain;
+    object-fit: cover;
+
+}
+
+.banner-text {
+    position: absolute;
+    top: 65%;
+    width: 1100px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid;
+    left: 6%; 
+    box-shadow: 5px 10px #888888;
+    border-radius: 10px;
+      
+}
+
+.banner-text h1, p {
+    text-align: center;
+    color: black;
+    font-style: italic;
+      
+}
+
+.banner-text h1{
+    font-size:50px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.updates h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    
+}
+
+.content-container img{
+    height: 350px;
+    width: 250px;
+    border: 1px solid; 
+    box-shadow: 5px 10px #888888;
+    border-radius: 10px;
+}
+
+.content-container {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.content{
+    flex-basis: 300px;
+    padding-right: 50px;
+    padding-left: 70px;
+}
+
+.content p{
+    font-size: 17px;
+    line-height: 1.5;
+    text-align:left;
+    
+}
+
+.content-container h2{
+    font-size:30px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    padding-top: 10px;
+
+}
+
+.games-container img{
+    height: 350px;
+    width: 250px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.games-container {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 60px;
+    margin-left: 100px;
+
+}
+
+.games{
+    flex-basis: 300px;
+    padding-right: 50px;
+    
+}
+
+.games h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    
+}
+
+.games-container h2{
+    font-size:30px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    padding-top: 10px;
+
+}
+
+.fanart img{
+    height: 390px;
+    width: 293px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
+
+}
+
+.art-container-1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    
+    
+
+}
+
+.art-container-2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    
+    
+
+}
+
+.fanart{
+    flex-basis: 361px;
+    padding-right: 50px;
+    
+}
+
+.art h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+    padding:30px 0px;
+}
+
+.art{
+    background-image: linear-gradient(to right, rgb(211, 204, 204) , rgb(236, 227, 227));
+}
